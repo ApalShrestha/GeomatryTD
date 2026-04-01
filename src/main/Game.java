@@ -46,7 +46,7 @@ public class Game extends JFrame implements Runnable {
 		add(gameScreen);
 		pack();
 		setVisible(true);
-	}fdfsfsdfs
+	}
 
 	private void initClasses() {
 		tileManager = new TileManager();
